@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.composite.consumibles.Bebible;
+package ar.edu.unahur.obj2.composite.consumibles.Bebibles;
 
 import ar.edu.unahur.obj2.composite.consumibles.Producto;
 

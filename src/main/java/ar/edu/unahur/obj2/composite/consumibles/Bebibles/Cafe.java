@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.composite.consumibles.Bebible;
+package ar.edu.unahur.obj2.composite.consumibles.Bebibles;
 
 public class Cafe extends Bebible{
     private Boolean conLeche;

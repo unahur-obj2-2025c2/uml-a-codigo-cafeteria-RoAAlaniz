@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.composite.consumibles.Bebible;
+package ar.edu.unahur.obj2.composite.consumibles.Bebibles;
 
 public class JugoDeNaranja extends Bebible{
     public JugoDeNaranja(String nombre, Double precioBase, Integer capacidad) {

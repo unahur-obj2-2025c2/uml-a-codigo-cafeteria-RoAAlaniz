@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.composite.consumibles.Comestible;
+package ar.edu.unahur.obj2.composite.consumibles.Comestibles;
 
 public class Medialuna extends Comestible{
     private TipoMedialuna tipo;

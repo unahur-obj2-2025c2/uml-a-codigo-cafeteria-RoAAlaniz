@@ -2,9 +2,6 @@ package ar.edu.unahur.obj2.composite.consumibles.Comestibles;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-import ar.edu.unahur.obj2.composite.consumibles.Comestible.TipoTostado;
-import ar.edu.unahur.obj2.composite.consumibles.Comestible.Tostado;
-
 public class TostadoTest {
     //CREACION
     Tostado tostado1 = new Tostado("Tostado de jamon y queso", 1000.0, 200.0, TipoTostado.JAMON_Y_QUESO);
