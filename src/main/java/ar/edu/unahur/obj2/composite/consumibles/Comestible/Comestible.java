@@ -1,4 +1,6 @@
-package ar.edu.unahur.obj2.composite.consumibles;
+package ar.edu.unahur.obj2.composite.consumibles.Comestible;
+
+import ar.edu.unahur.obj2.composite.consumibles.Producto;
 
 public abstract class Comestible extends Producto{
     protected Double pesoGr;

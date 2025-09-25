@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.composite.consumibles;
+package ar.edu.unahur.obj2.composite.consumibles.Comestible;
 
 public class Tostado extends Comestible{
     private TipoTostado tipo;

@@ -2,8 +2,8 @@ package ar.edu.unahur.obj2.composite.consumibles.Comestibles;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-import ar.edu.unahur.obj2.composite.consumibles.TipoTostado;
-import ar.edu.unahur.obj2.composite.consumibles.Tostado;
+import ar.edu.unahur.obj2.composite.consumibles.Comestible.TipoTostado;
+import ar.edu.unahur.obj2.composite.consumibles.Comestible.Tostado;
 
 public class TostadoTest {
     //CREACION
