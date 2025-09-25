@@ -5,13 +5,13 @@ import java.util.List;
 public class Combo implements Consumible{
     private final String nombre;
     private final Double precio;
-    private List<Consumible> productos;
+    private List<Consumible> productos = new ArrayList<>();
 
     public Combo(String nombre, Double precio) {
         this.nombre = nombre;
         this.precio = precio;
-        this.productos = new ArrayList<>();
     }
+    
 
     public String getNombre(){
         return nombre;
